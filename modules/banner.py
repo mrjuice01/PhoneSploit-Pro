@@ -3,7 +3,7 @@
 
     Script : PhoneSploit Pro - All in One Android Hacking ADB Toolkit  
 
-    Copyright (C) 2023  Mohd Azeem (github.com/AzeemIdrisi)
+    Copyright (C) 2023  Mohd Azeem (github.com/mrjuice01)
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -19,10 +19,10 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
     Forking and modifying are allowed, but credit must be given to the
-    original developer, [Mohd Azeem (github.com/AzeemIdrisi)], and copying the code
+    original developer, [Mohd Azeem (github.com/mrjuice01)], and copying the code
     is not permitted without permission.
 
-    For any queries, Contact me at : azeemidrisi@protonmail.com
+    For any queries, Contact me at : mrjuice017@gmail.com
 """
 
 from modules import color
@@ -97,7 +97,7 @@ banner2 = f"""
         ░█─── ▀──▀ ▀▀▀▀ ▀──▀ ▀▀▀ ░█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ──▀── 　 ░█─── ▀─▀▀ ▀▀▀▀
 
 
-            {color.RED}{version}{color.WHITE}            {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}            {color.WHITE}By github.com/mrjuice01
 """
 
 banner3 = f"""
@@ -106,7 +106,7 @@ banner3 = f"""
         █▀▀ █▀█ █▄█ █░▀█ ██▄ ▄█ █▀▀ █▄▄ █▄█ █ ░█░   █▀▀ █▀▄ █▄█ 
 
 
-            {color.RED}{version}{color.WHITE}             {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}             {color.WHITE}By github.com/mrjuice01
 """
 
 banner4 = f"""
@@ -118,7 +118,7 @@ banner4 = f"""
                   \/            \/     \/        \/|__|                                                      
 
 
-        {color.RED}{version}{color.WHITE}                             {color.WHITE}By github.com/AzeemIdrisi
+        {color.RED}{version}{color.WHITE}                             {color.WHITE}By github.com/mrjuice01
 """
 banner5 = f"""
        ___  __                 ____     __     _ __     ___         
@@ -127,7 +127,7 @@ banner5 = f"""
     /_/  /_//_/\___/_//_/\__/___/ .__/_/\___/_/\__/  /_/  /_/  \___/
                                /_/                                                                                                      
 
-        {color.RED}{version}{color.WHITE}        {color.WHITE}By github.com/AzeemIdrisi
+        {color.RED}{version}{color.WHITE}        {color.WHITE}By github.com/mrjuice01
 """
 
 banner6 = f"""
@@ -138,7 +138,7 @@ banner6 = f"""
     /_/   /_/ /_/\____/_/ /_/\___/____/ .___/_/\____/_/\__/    /_/   /_/   \____/
                                      /_/                                                                                                       
     
-           {color.RED}{version}{color.WHITE}               {color.WHITE}By github.com/AzeemIdrisi
+           {color.RED}{version}{color.WHITE}               {color.WHITE}By github.com/mrjuice01
 
 """
 
@@ -153,7 +153,7 @@ banner10 = f"""
                                                          \ \_\                                                       
                                                           \/_/                                              
 
-            {color.RED}{version}{color.WHITE}                                {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}                                {color.WHITE}By github.com/mrjuice01
 
 """
 
@@ -166,7 +166,7 @@ banner11 = f"""
                                             /_/                                                      
 
 
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/mrjuice01
 
 """
 
@@ -177,7 +177,7 @@ banner12 = f"""
         ▒█░░░ ▀░░▀ ▀▀▀▀ ▀░░▀ ▀▀▀ ▒█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ░░▀░░ 　 ▒█░░░ ▀░▀▀ ▀▀▀▀   
 
 
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/mrjuice01
 
 """
 banner_list = [
@@ -220,5 +220,5 @@ keycode_menu = f"""
    {color.WHITE}10. {color.GREEN}Delete/Backspace
 """
 """
-Copyright © 2023 Mohd Azeem (github.com/AzeemIdrisi)
+Copyright © 2023 Mohd Azeem (github.com/mrjuice01)
 """
