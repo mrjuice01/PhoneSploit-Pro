@@ -3,7 +3,7 @@
 
     Script : PhoneSploit Pro - All in One Android Hacking ADB Toolkit  
 
-    Copyright (C) 2023  Mohd Azeem (github.com/AzeemIdrisi)
+    Copyright (C) 2023  Mohd Azeem (github.com/mrjuice01)
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -19,7 +19,7 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
     Forking and modifying are allowed, but credit must be given to the
-    original developer, [Mohd Azeem (github.com/AzeemIdrisi)], and copying the code
+    original developer, [Mohd Azeem (github.com/mrjuice01)], and copying the code
     is not permitted without permission.
 
     For any queries, Contact me at : azeemidrisi@protonmail.com
@@ -111,5 +111,5 @@ if run_phonesploit_pro:
         except KeyboardInterrupt:
             exit_phonesploit_pro()
 """
-Copyright © 2023 Mohd Azeem (github.com/AzeemIdrisi)
+Copyright © 2023 Mohd Azeem (github.com/mrjuice01)
 """
