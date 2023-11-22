@@ -1,12 +1,12 @@
 # PhoneSploit Pro
 ### PhoneSploit with Metasploit Integration.
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/AzeemIdrisi/PhoneSploit-Pro)
-[![CodeFactor](https://www.codefactor.io/repository/github/azeemidrisi/phonesploit-pro/badge)](https://www.codefactor.io/repository/github/azeemidrisi/phonesploit-pro)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mrjuice01/PhoneSploit-Pro)
+[![CodeFactor](https://www.codefactor.io/repository/github/mrjuice01/phonesploit-pro/badge)](https://www.codefactor.io/repository/github/mrjuice01/phonesploit-pro)
 ![Python](https://img.shields.io/badge/python-v3.10%2B-blue)
-![GitHub Release Date](https://img.shields.io/github/release-date/AzeemIdrisi/PhoneSploit-Pro?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/AzeemIdrisi/PhoneSploit-Pro?logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/AzeemIdrisi/PhoneSploit-Pro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AzeemIdrisi/PhoneSploit-Pro?style=social)
+![GitHub Release Date](https://img.shields.io/github/release-date/mrjuice01/PhoneSploit-Pro?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/mrjuice01/PhoneSploit-Pro?logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/mrjuice01/PhoneSploit-Pro?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mrjuice01/PhoneSploit-Pro?style=social)
 
 
 An all-in-one hacking tool written in `Python` to remotely exploit Android devices using `ADB` (Android Debug Bridge) and `Metasploit-Framework`.
@@ -105,11 +105,11 @@ __PhoneSploit Pro__ does not need any installation and runs directly using `pyth
 
 #### On Linux / macOS :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](https://github.com/mrjuice01/PhoneSploit-Pro#requirements) software are installed.
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/mrjuice01/PhoneSploit-Pro.git
 ```
 ```
 pip install python-nmap
@@ -122,12 +122,12 @@ python3 phonesploitpro.py
 ```
 #### On Windows :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](https://github.com/mrjuice01/PhoneSploit-Pro#requirements) software are installed.
 
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/mrjuice01/PhoneSploit-Pro.git
 ```
 ```
 pip install python-nmap
