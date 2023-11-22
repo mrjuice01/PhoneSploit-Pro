@@ -19,10 +19,10 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
     Forking and modifying are allowed, but credit must be given to the
-    original developer, [Mohd Azeem (github.com/AzeemIdrisi)], and copying the code
+    original developer, [Mr JUice (github.com/mrjuice01)], and copying the code
     is not permitted without permission.
 
-    For any queries, Contact me at : azeemidrisi@protonmail.com
+    For any queries, Contact me at : mrjuice017@gmail.com
 """
 
 import os
@@ -1422,7 +1422,7 @@ def update_me():
 
 
 def visit_me():
-    os.system(f"{opener} https://github.com/AzeemIdrisi/PhoneSploit-Pro")
+    os.system(f"{opener} https://github.com/mrjuice01/PhoneSploit-Pro")
     print("\n")
 
 
@@ -1758,5 +1758,5 @@ if run_phonesploit_pro:
 
 
 """
-Copyright © 2023 Mohd Azeem (github.com/AzeemIdrisi)
+Copyright © 2023 Mr Juice (github.com/mrjuice01)
 """
